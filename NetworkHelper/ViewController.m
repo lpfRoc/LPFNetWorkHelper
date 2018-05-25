@@ -11,6 +11,7 @@
 #import <AFNetworking.h>
 #import <JSONKit.h>
 #import "ZDBaseRequestManager.h"
+#import <ZDUtilities.h>
 @interface ViewController ()
 
 @end
@@ -20,6 +21,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
+   NSLog(@"ZDUtilities ==%d",[ZDUtilities getRandomNumber:10 to:100]) ;
     //亲求参数
     NSDictionary *dic= @{
                          @"appkey":@"99343c9d4dbf72f5",

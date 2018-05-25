@@ -34,39 +34,13 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>ZDUtilities.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
-	<dict>
-		<key>167558032DA4DA31B79008410910A303</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>444D3D015A9960B28F7042633FC830DF</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>9E033EDB5EC0819481B0546434FA577B</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>BB2AB6C3F17512F8687B187A905D5DB1</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>D51DA3CF7CFAF3EAEADFA205E7017426</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>D6CE781AC6618E4E8589E6A54590C17A</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-	</dict>
+	<dict/>
 </dict>
 </plist>

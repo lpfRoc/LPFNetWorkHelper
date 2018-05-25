@@ -20,11 +20,13 @@ PODS:
     - YYCache (~> 1.0.4)
   - Reachability (3.2)
   - YYCache (1.0.4)
+  - ZDUtilities (1.0.4)
 
 DEPENDENCIES:
   - JSONKit-NoWarning (~> 1.2)
   - PPNetworkHelper (~> 0.8.0)
   - Reachability (~> 3.2)
+  - ZDUtilities (~> 1.0.4)
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
@@ -32,7 +34,8 @@ SPEC CHECKSUMS:
   PPNetworkHelper: 900d1af5cb9f2932b3f955ebf72148b7ec403d44
   Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
   YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+  ZDUtilities: ae27c6a6e017c373a80e91ff6a5348bd6e1b8420
 
-PODFILE CHECKSUM: e590141f02aeb0a9ce5434d43ea6c98736510d47
+PODFILE CHECKSUM: 2948350a87b5a62e4bad26b8a8794ab17dd6dac9
 
-COCOAPODS: 1.1.1
+COCOAPODS: 1.3.1

@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '06C25848FEC65FA0BD8841490C63A89D'
-               BlueprintName = 'Reachability'
+               BlueprintIdentifier = '7FE301F5E5EA0CB6F3C6F6E2A9CCF91D'
+               BlueprintName = 'ZDUtilities'
                ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'libReachability.a'>
+               BuildableName = 'libZDUtilities.a'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
